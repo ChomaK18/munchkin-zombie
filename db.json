@@ -1,0 +1,112 @@
+{
+  "monsters": [
+    {
+      "name": "Biurowy Zombie",
+      "level": 6,
+      "desc": "Biurowy Zombie ma bonus +5 jeśli jest sobota albo niedziela.",
+      "badStuff": "Kradnie ci zszywacz. Tracisz 1 Poziom.",
+      "treasures": 2,
+      "extraLevel": false,
+      "id": "18"
+    },
+    {
+      "name": "Konserwator Powierzchni Płaskich",
+      "level": 2,
+      "desc": "+3 przeciwko Gnijącym Zombie.",
+      "badStuff": "Czyści cię na płasko. Tracisz 1 Poziom. Odrzuć też dowolną kartę.",
+      "treasures": 1,
+      "extraLevel": false,
+      "id": "17"
+    },
+    {
+      "name": "Dostawca Pizzy",
+      "level": 6,
+      "desc": "Ooo, pachnie nawet lepiej niż mózgi. Jeśli pokonasz go z czyjąś pomocą, twój pomocnik także dostanie 1 Poziom.",
+      "badStuff": "Trzeba było mu dać napiwek. Tracisz Buty. Jeśli nie masz Butów, tracisz 1 Poziom.",
+      "treasures": 2,
+      "extraLevel": false,
+      "id": "16"
+    },
+    {
+      "id": "1",
+      "name": "Żul Spod Monopolowego",
+      "level": "2",
+      "desc": "Jeśli pokonasz go przy pomocy ognia, dostaniesz pieczony móżdżek w sosie winnym i możesz dobrać dodatkowy Skarb.",
+      "badStuff": "Oddaj mu wszystkie Bezwartościowe przedmioty",
+      "treasures": "1",
+      "extraLevel": false
+    },
+    {
+      "id": "2",
+      "name": "Inspektor Skarbowy",
+      "level": "8",
+      "desc": "+5 przeciwko Voodoo Zombie",
+      "badStuff": "Odrzuć swój najbardziej wartościowy przedmiot. Jeśli nie był warty co najmniej 400 Sztuk Złota, tracisz także 1 Poziom",
+      "treasures": "2",
+      "extraLevel": false
+    },
+    {
+      "id": "3",
+      "name": "Zombie Biurokrata",
+      "level": "10",
+      "desc": "To naprawde wiele tłumaczy. +3 przeciwo Zombie bez Stylówy",
+      "badStuff": "Wprowadza prawo zombiedomu. Tracisz 1 Poziom, a jeśli używasz Kanciarza, odrzuć go razem z przypisaną do niego kartą",
+      "treasures": "3",
+      "extraLevel": false
+    },
+    {
+      "id": "4",
+      "name": "Zombie Chihuahua",
+      "level": "1",
+      "desc": "Ma niezłego nosa. Dostaje bonus równy sumie Rang twoich Mocy.",
+      "badStuff": "Tracisz przedmiot wart najmniej, bezwartościowe się nie liczą.",
+      "treasures": "1",
+      "extraLevel": false
+    },
+    {
+      "id": "5",
+      "name": "Przedsiębiorca Pogrzebowy",
+      "level": "14",
+      "desc": "-4 przeciwko Atomowym Zombie. To przekracza zakres jego obowiązków",
+      "badStuff": "Mumifikuje cię. Jesteś trupem. Martwym trupem.",
+      "treasures": "4",
+      "extraLevel": false
+    },
+    {
+      "id": "6",
+      "name": "Zakonnica",
+      "level": "16",
+      "desc": "-2 przeciwko Voodoo Zombie",
+      "badStuff": "Wysyła cię do kąta. Nikt  nie może z tobą handlować lub dać ci żadnej karty z dowolnego powodu dopóki nie pokonasz Potwora.",
+      "treasures": "4",
+      "extraLevel": true
+    },
+    {
+      "id": "7",
+      "name": "Dzielnicowy",
+      "level": "18",
+      "desc": "Nie będzie gonił nikogo o Poziomie 4 lub niższym. -4 przeciwko Szybkim Zombie.",
+      "badStuff": "PIF PAF! Jesteś martwy.",
+      "treasures": "5",
+      "extraLevel": true
+    },
+    {
+      "id": "8",
+      "name": "Słodka Małolata",
+      "level": "4",
+      "desc": "+3 przeciwko Mądrym Zombie",
+      "badStuff": "Nie dostaniesz mózgów! Wystarczą ci ciasteczka. Tracisz 1 Poziom.",
+      "treasures": "2",
+      "extraLevel": false
+    },
+    {
+      "id": "9",
+      "name": "Barista",
+      "level": "14",
+      "desc": "+2 przeciwko Atomowym Zombie. Ona i jej kawa są bardziej gorące niż ty.",
+      "badStuff": "Zalewa cię gorącą kawą! Z cynamonem! Tracisz 1 Poziom.",
+      "treasures": "4",
+      "extraLevel": false
+    }
+  ]
+}

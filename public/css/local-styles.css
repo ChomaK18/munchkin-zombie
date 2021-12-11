@@ -1,0 +1,16 @@
+.monster {
+  background-color: wheat;
+  border: maroon;
+  width: 220px;
+  height: 340px;
+}
+.monster > div {
+  margin: 0.3em;
+}
+.dice {
+  font-size: 5em;
+}
+
+.description, .treasures {
+  font-size: smaller;
+}
